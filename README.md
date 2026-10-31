@@ -57,7 +57,47 @@ I'm Steve Messina. I build agent systems that survive production: the harness th
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/roles-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/roles-light.svg">
-  <img alt="Timeline, newest first. TensorLot, Chief AI Architect (Sep 2026 – now), client engagement; Newton Russell, AI Consultant (Macleod Labs engagement) (Jun 2026 – Aug 2026, Aug 2025), client engagement; Snyk, Generative AI Consultant / AI Agent Engineer (Jan 2026 – Apr 2026), client engagement; VCyberiz, Cybersecurity AI Consultant (Sep 2025), client engagement; Graph8, CTO & Chief AI Engineer (Dec 2024 – Jul 2025), client engagement; Macleod Labs, Founder & Fractional CTO (Oct 2024 – now); Azara.ai, Founder & CTO (Aug 2023 – Oct 2024); IBM, AWS CTO, Tech Leader & Associate Partner (Mar 2020 – Jul 2023)." src="assets/roles-light.svg" width="100%">
+  <img alt="Timeline since 2020, newest first. TensorLot, Chief AI Architect (Sep 2026 - Present), client engagement; MacleodLabs.ai, Founder & Fractional CTO (Oct 2024 - Present); Newton Russell, AI Consultant (Macleod Labs engagement) (Jun 2026 - Aug 2026), client engagement; Snyk, Generative AI Consultant / AI Agent Engineer (Jan 2026 - Apr 2026), client engagement; VCyberiz, Cybersecurity AI Consultant / Full-stack AI Engineer (Sep 2025), client engagement; Graph8, CTO & Chief AI Engineer (Dec 2024 - Jul 2025), client engagement; Azara.ai, Founder & CTO, Agentic AI Workflow Platform (Aug 2023 - Oct 2024); IBM, AWS CTO, Tech Leader & Associate Partner (Mar 2020 - Jul 2023)." src="assets/roles-light.svg" width="100%">
 </picture>
 
-<sub>Earlier: AWS, HSBC, Bank of America Merrill Lynch, UBS, Morgan Stanley. Full history at <a href="https://macleodlabs.ai/about.html">macleodlabs.ai/about</a>.</sub>
+<details>
+<summary>Earlier career (1995–2019)</summary>
+
+<table>
+<tr><th align="left">Company</th><th align="left">Role</th><th align="left">Years</th></tr>
+<tr><td valign="top"><b>ICompaz (Temasek / Infosys JV)</b></td><td valign="top">Head of Cloud &amp; AI<br><sub>Built the cloud and AI Centre of Excellence for Temasek portfolio companies.</sub></td><td valign="top" nowrap>Mar 2019 - Feb 2020</td></tr>
+<tr><td valign="top"><b>Amazon Web Services</b></td><td valign="top">Principal Architect / Consultant, Professional Services<br><sub>Led the DevOps and microservices specialties in APAC.</sub></td><td valign="top" nowrap>Sep 2015 - May 2018</td></tr>
+<tr><td valign="top"><b>UCanPay</b></td><td valign="top">Interim CTO<br><sub>Created multiple products, including a Bitcoin EPOS system, restaurant management software and a B2B marketplace.</sub></td><td valign="top" nowrap>Jun 2014 - Aug 2015</td></tr>
+<tr><td valign="top"><b>10xLabs</b></td><td valign="top">Founder, Container PaaS<br><sub>Invented and built one of the first container platform-as-a-service and service-mesh platforms, before containers became mainstream; led a team of 25.</sub></td><td valign="top" nowrap>Jan 2012 - Aug 2015</td></tr>
+<tr><td valign="top"><b>Standard Chartered Bank</b></td><td valign="top">Consultant, Cloud &amp; DevOps Lead<br><sub>Established the China engineering Centre of Excellence in Tianjin.</sub></td><td valign="top" nowrap>Jul 2013 - May 2014</td></tr>
+<tr><td valign="top"><b>UBS</b></td><td valign="top">Consultant CTO, Cloud Strategy<br><sub>Created the innovation centre of excellence, startup accelerator programmes, enterprise cloud operating model and transformation strategy.</sub></td><td valign="top" nowrap>Jun 2012 - Dec 2012</td></tr>
+<tr><td valign="top"><b>Bank of America Merrill Lynch</b></td><td valign="top">Global Banking Chief Architect<br><sub>Built and led the 50-person architecture function for Global Markets and Operations.</sub></td><td valign="top" nowrap>Apr 2010 - Dec 2011</td></tr>
+<tr><td valign="top"><b>HSBC Global Banking &amp; Markets</b></td><td valign="top">Global Banking Chief Architect<br><sub>Implemented the Global Methods Architecture; led the reference data programme and the One-HSBC programme unifying 60+ countries.</sub></td><td valign="top" nowrap>Dec 2007 - Mar 2010</td></tr>
+<tr><td valign="top"><b>Morgan Stanley Private Wealth</b></td><td valign="top">Vice President / Technical Architect<br><sub>Authored the 2006 operations automation vision paper 'Development Operations Done Right' that pre-dated the DevOps movement; led operations restructuring across Private Wealth technology.</sub></td><td valign="top" nowrap>Mar 2006 - Nov 2007</td></tr>
+<tr><td valign="top"><b>UBS</b></td><td valign="top">Architect &amp; Lead, Portfolio Trading<br><sub>Architected and led development of portfolio trading systems for UBS Investment Bank.</sub></td><td valign="top" nowrap>Jul 2000 - Dec 2005</td></tr>
+<tr><td valign="top"><b>Apollo AI Hedge Fund</b></td><td valign="top">Architect &amp; Lead Developer, Automated Trading<br><sub>Architected and coded an automated commodity trading platform using neural networks and genetic algorithms.</sub></td><td valign="top" nowrap>Jun 1995 - Feb 1999</td></tr>
+</table>
+
+</details>
+
+### Skills
+
+- **Core Expertise:** Agentic AI &amp; LLM Systems, Generative AI Strategy &amp; Governance, AI Security, Guardrails &amp; Evaluation, Enterprise &amp; Solution Architecture, Cloud Transformation (AWS), Banking, Capital Markets &amp; Trading Systems, Regulatory Compliance &amp; Reference Data, Microservices, APIs &amp; Platform Engineering, Data &amp; AI Platforms, MLOps &amp; DevOps, AI Product Go-to-Market, Team Building &amp; Operating Models
+- **AI / GenAI:** Large Language Models (LLM), Agentic AI, LangChain, LangGraph, Model Context Protocol (MCP), Agent Orchestration, Retrieval-Augmented Generation (Adaptive RAG), Postgres BM25, Pydantic Evals, LLM Judges, Guardrails, Fine-tuning, MLOps, Coding Harnesses, OpenAI API, Anthropic Claude API, Neural Networks, Genetic Algorithms
+- **Banking &amp; Trading:** Global Markets, Settlement, Reference Data, Regulatory Compliance, Quantitative Trading, Automated Trading Systems, Fintech, Crypto Payments
+- **Cloud, Data &amp; Engineering:** AWS, Kubernetes, Terraform, Docker, Microservices, APIs, DevOps, Python, FastAPI, Flask, Rust, TypeScript, React, PostgreSQL, ClickHouse, AWS Glue, PySpark, Weaviate, Neo4j, Twilio, LiveKit
+
+### Education & certifications
+
+- **AWS Certifications (2016):** Certified Solutions Architect – Professional, Certified Developer – Associate, Certified Solutions Architect – Associate
+- **Financial Certifications (2007):** Partial Certified Quantitative Finance, Securities II Certificates
+- **MMath programme (degree not completed):** Open University / Birkbeck — mathematical modelling, pure mathematics, probability, physics, astronomy
+
+**Key innovations and inventions**
+
+- DevOps Pioneer: Early pioneer in founding DevOps — wrote the 2006 vision paper "Development Operations Done Right" at Morgan Stanley, before the term existed
+- Container Technology: Invented one of the earliest Container platforms and Service Meshes through 10xLabs (2012-2015) — source on GitHub (10xEngineer/10xLabs)
+- AI Trading Systems: Architected an automated commodity trading platform using Neural Networks and Genetic Algorithms at Apollo AI Hedge Fund (1995-1999)
+- Inventions: Multiple inventions in container platforms, cybersecurity AI and agentic workflows
+
+<sub><a href="https://macleodlabs.ai/downloads/Steve_Messina_CV_AI_Chief_Architect_CTO.pdf">CV (PDF)</a> · <a href="https://macleodlabs.ai/about.html">Full resume on macleodlabs.ai/about</a></sub>
