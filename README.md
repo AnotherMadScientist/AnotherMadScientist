@@ -2,7 +2,7 @@
   <a href="https://macleodlabs.ai/contact.html" title="Hire Steve Messina">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/hire-card-dark.svg">
-      <img alt="Steve Messina, @AnotherMadScientist. AI chief architect and fractional CTO, Dubai. Hire me. 22,216 contributions across 206 repos since Jan 2023, with the contribution calendar for every year." src="assets/hire-card-light.svg" width="480">
+      <img alt="Steve Messina, @AnotherMadScientist. AI chief architect and fractional CTO, Dubai. Hire me. 22,227 contributions across 206 repos since Jan 2023, with the contribution calendar for every year." src="assets/hire-card-light.svg" width="480">
     </picture>
   </a>
 </p>
